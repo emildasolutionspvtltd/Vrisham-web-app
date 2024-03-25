@@ -209,9 +209,9 @@ collections:
             label: Link
             name: 687939cc
             widget: string
-          - hint: 'Original link: #, key: 23'
+          - hint: 'Original link: https://linktr.ee/admin, key: -6078e459'
             label: Link
-            name: '23'
+            name: '-6078e459'
             widget: string
       - label: Images
         name: images
