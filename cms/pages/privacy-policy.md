@@ -1,8 +1,8 @@
 ---
 title: Privacy Policy
 permalink: '{{ page.fileSlug }}/index.html'
-layout: untitled.html
-slug: untitled
+layout: privacy-policy.html
+slug: privacy-policy
 tags: pages
 seo:
   noindex: false

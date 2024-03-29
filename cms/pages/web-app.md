@@ -1,8 +1,8 @@
 ---
-title: Web App Page
+title: Web App
 permalink: '{{ page.fileSlug }}/index.html'
-layout: web-app-page.html
-slug: web-app-page
+layout: web-app.html
+slug: web-app
 tags: pages
 seo:
   noindex: false

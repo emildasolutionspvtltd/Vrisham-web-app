@@ -248,10 +248,10 @@ collections:
             name: '-77ed9410'
             widget: string
           - hint: >-
-              Original text:  Includes email, name, phone number, and other
-              identifiers., key: -63e107da
+              Original text:  Includes email, name, Location, phone number, and
+              other identifiers., key: 4ec69f2f
             label: Text
-            name: '-63e107da'
+            name: 4ec69f2f
             widget: string
           - hint: 'Original text: Usage Data:, key: 3fd0d251'
             label: Text
@@ -625,9 +625,9 @@ collections:
             label: Link
             name: '-237f3f94'
             widget: string
-          - hint: 'Original link: /untitled/, key: -e673f65'
+          - hint: 'Original link: /privacy-policy/, key: -2f934417'
             label: Link
-            name: '-e673f65'
+            name: '-2f934417'
             widget: string
           - hint: 'Original link: /refund-policy/, key: 58314dd7'
             label: Link
@@ -637,9 +637,9 @@ collections:
             label: Link
             name: 2f
             widget: string
-          - hint: 'Original link: /web-app-page/, key: 687939cc'
+          - hint: 'Original link: /web-app/, key: af47636'
             label: Link
-            name: 687939cc
+            name: af47636
             widget: string
           - hint: 'Original link: https://linktr.ee/admin, key: -6078e459'
             label: Link
