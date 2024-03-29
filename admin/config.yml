@@ -176,6 +176,18 @@ collections:
             name: title
             widget: hidden
             default: Texts
+          - hint: 'Original text: Terms and Conditions, key: -7ac7b766'
+            label: Text
+            name: '-7ac7b766'
+            widget: string
+          - hint: 'Original text: Privacy Policy, key: -3fbde6f6'
+            label: Text
+            name: '-3fbde6f6'
+            widget: string
+          - hint: 'Original text: Refund Policy, key: -234a8d26'
+            label: Text
+            name: '-234a8d26'
+            widget: string
           - hint: 'Original text: Your Bridge to Natural Goodness, key: 28cfcee6'
             label: Text
             name: 28cfcee6
@@ -197,6 +209,410 @@ collections:
             label: Text
             name: 4bce2289
             widget: string
+          - hint: 'Original text: Vrisham Privacy Policy, key: -5b9f5064'
+            label: Text
+            name: '-5b9f5064'
+            widget: string
+          - hint: 'Original text: 1. Interpretation and Definitions, key: 6c989102'
+            label: Text
+            name: 6c989102
+            widget: string
+          - hint: 'Original text: Interpretation: , key: 23218b4e'
+            label: Text
+            name: 23218b4e
+            widget: string
+          - hint: >-
+              Original text: Capitalized terms have specific meanings defined in
+              this section., key: 34e7d3da
+            label: Text
+            name: 34e7d3da
+            widget: string
+          - hint: 'Original text: Definitions: , key: -144ab37a'
+            label: Text
+            name: '-144ab37a'
+            widget: string
+          - hint: >-
+              Original text: Key terms used throughout this Policy are defined
+              here., key: -53b85c1f
+            label: Text
+            name: '-53b85c1f'
+            widget: string
+          - hint: >-
+              Original text: 2. Collection and Use of Personal Data, key:
+              -3863b17f
+            label: Text
+            name: '-3863b17f'
+            widget: string
+          - hint: 'Original text: Personal Data:, key: -77ed9410'
+            label: Text
+            name: '-77ed9410'
+            widget: string
+          - hint: >-
+              Original text:  Includes email, name, phone number, and other
+              identifiers., key: -63e107da
+            label: Text
+            name: '-63e107da'
+            widget: string
+          - hint: 'Original text: Usage Data:, key: 3fd0d251'
+            label: Text
+            name: 3fd0d251
+            widget: string
+          - hint: >-
+              Original text:  Automatically collected data, such as IP
+              addresses, browser types, and visit detai, key: -695f7294
+            label: Text
+            name: '-695f7294'
+            widget: string
+          - hint: 'Original text: ‍, key: 200d'
+            label: Text
+            name: 200d
+            widget: string
+          - hint: 'Original text: Cookies and Tracking:, key: -3df50ab7'
+            label: Text
+            name: '-3df50ab7'
+            widget: string
+          - hint: >-
+              Original text:  Utilized to enhance service functionality and user
+              experience., key: -3cc94d7f
+            label: Text
+            name: '-3cc94d7f'
+            widget: string
+          - hint: 'Original text: 3. Sharing of Personal Data, key: 664d300a'
+            label: Text
+            name: 664d300a
+            widget: string
+          - hint: >-
+              Original text: We may share your information with service
+              providers, affiliates, business partners, and in certain business
+              transactions or legal circumstances., key: 666481c4
+            label: Text
+            name: 666481c4
+            widget: text
+          - hint: >-
+              Original text: We prioritize the security of your data but cannot
+              guarantee absolute security due to the nature of online
+              transmission., key: -503d1ec8
+            label: Text
+            name: '-503d1ec8'
+            widget: text
+          - hint: 'Original text: 4. Children''s Privacy, key: 1aebf339'
+            label: Text
+            name: 1aebf339
+            widget: string
+          - hint: >-
+              Original text: Our service is not directed to individuals under
+              the age of 13, and we do not knowingly collect personal
+              information from minors., key: -2d92222d
+            label: Text
+            name: '-2d92222d'
+            widget: text
+          - hint: 'Original text: 5. Links to Third-Party Websites, key: -6996fd91'
+            label: Text
+            name: '-6996fd91'
+            widget: string
+          - hint: >-
+              Original text: We may link to third-party websites, but we do not
+              control or endorse their privacy practices.Changes to this Policy,
+              key: -4e6aa8fd
+            label: Text
+            name: '-4e6aa8fd'
+            widget: text
+          - hint: 'Original text: 6. Third-party Links:, key: -104eec97'
+            label: Text
+            name: '-104eec97'
+            widget: string
+          - hint: >-
+              Original text: Our service may include links to third-party sites,
+              which we do not control., key: 3587c78
+            label: Text
+            name: 3587c78
+            widget: string
+          - hint: 'Original text: 7. Changes to This Policy:, key: 4fb15985'
+            label: Text
+            name: 4fb15985
+            widget: string
+          - hint: >-
+              Original text: We may update this policy and will notify you of
+              changes., key: -3e21d615
+            label: Text
+            name: '-3e21d615'
+            widget: string
+          - hint: 'Original text: 8. Contact Us:, key: -5ffa790e'
+            label: Text
+            name: '-5ffa790e'
+            widget: string
+          - hint: 'Original text: Email: , key: 19673a2'
+            label: Text
+            name: 19673a2
+            widget: string
+          - hint: 'Original text: support@vrisham.com, key: -337c5f70'
+            label: Text
+            name: '-337c5f70'
+            widget: string
+          - hint: >-
+              Original text: By using our Service, you consent to these terms.,
+              key: -1548c4ee
+            label: Text
+            name: '-1548c4ee'
+            widget: string
+          - hint: 'Original text: Vrisham Terms and Conditions, key: 6cdc29ac'
+            label: Text
+            name: 6cdc29ac
+            widget: string
+          - hint: 'Original text: 1. Acceptance:, key: -69d050e0'
+            label: Text
+            name: '-69d050e0'
+            widget: string
+          - hint: 'Original text: By using the Vrisham, key: 4558961a'
+            label: Text
+            name: 4558961a
+            widget: string
+          - hint: 'Original text: website, key: 48f9e09b'
+            label: Text
+            name: 48f9e09b
+            widget: string
+          - hint: 'Original text:  (, key: 408'
+            label: Text
+            name: '408'
+            widget: string
+          - hint: 'Original text: https://www.vrisham.com/, key: 1e5a8094'
+            label: Text
+            name: 1e5a8094
+            widget: string
+          - hint: 'Original text: ), , key: 9f5d'
+            label: Text
+            name: 9f5d
+            widget: string
+          - hint: >-
+              Original text: you agree to these terms and conditions. If you
+              disagree, please do not use the site.
+                        , key: -63b82c6c
+            label: Text
+            name: '-63b82c6c'
+            widget: text
+          - hint: 'Original text: 2. Terminology:, key: 3b4af36b'
+            label: Text
+            name: 3b4af36b
+            widget: string
+          - hint: >-
+              Original text: Terms like "Client," "You," and "Your" refer to
+              website users. "The Company," "Ourselves," "We," and "Us" refer to
+              Vrisham. "Party," "Parties," or "Us" includes both the client and
+              the company., key: 55b1261e
+            label: Text
+            name: 55b1261e
+            widget: text
+          - hint: 'Original text: 3. License & Use Restrictions:, key: 1f38f9c'
+            label: Text
+            name: 1f38f9c
+            widget: string
+          - hint: >-
+              Original text: Vrisham owns the intellectual property rights to
+              all website material., key: 5b13838c
+            label: Text
+            name: 5b13838c
+            widget: string
+          - hint: >-
+              Original text: You may use the website for personal purposes but
+              cannot republish, sell, or redistribute its content without
+              permission., key: c19d156
+            label: Text
+            name: c19d156
+            widget: text
+          - hint: 'Original text: 4. User Comments:, key: 48161917'
+            label: Text
+            name: '48161917'
+            widget: string
+          - hint: >-
+              Original text: Users may post comments, which do not necessarily
+              reflect Vrisham's views., key: -7db30239
+            label: Text
+            name: '-7db30239'
+            widget: string
+          - hint: >-
+              Original text: Vrisham isn't liable for comments' content but
+              reserves the right to remove inappropriate or offensive comments.,
+              key: -1c7fd3e9
+            label: Text
+            name: '-1c7fd3e9'
+            widget: text
+          - hint: 'Original text: 5. Hyperlinking:, key: -611cfb69'
+            label: Text
+            name: '-611cfb69'
+            widget: string
+          - hint: >-
+              Original text: Certain organizations may link to our site without
+              prior approval., key: -a84cb50
+            label: Text
+            name: '-a84cb50'
+            widget: string
+          - hint: >-
+              Original text: We may also approve link requests from reputable
+              organizations if the link is not deceptive and implies no false
+              endorsement., key: -5e519309
+            label: Text
+            name: '-5e519309'
+            widget: text
+          - hint: 'Original text: 6. iFrames:, key: -4fa007ed'
+            label: Text
+            name: '-4fa007ed'
+            widget: string
+          - hint: >-
+              Original text: Creating frames around our webpages without
+              permission is prohibited., key: -5066aee9
+            label: Text
+            name: '-5066aee9'
+            widget: string
+          - hint: 'Original text: 7. Content Liability:, key: 76b312fd'
+            label: Text
+            name: 76b312fd
+            widget: string
+          - hint: >-
+              Original text: We are not responsible for content appearing on
+              your website that may link to us. You agree to defend us against
+              any claims arising from your website., key: 2c310a7d
+            label: Text
+            name: 2c310a7d
+            widget: text
+          - hint: 'Original text: 8. Rights Reservation:, key: -2f7ae93'
+            label: Text
+            name: '-2f7ae93'
+            widget: string
+          - hint: >-
+              Original text: We reserve the right to ask you to remove all links
+              to our website and may amend these terms and conditions at any
+              time., key: 17a6897
+            label: Text
+            name: 17a6897
+            widget: text
+          - hint: >-
+              Original text: By linking to our website, you agree to adhere to
+              these terms., key: -73b36c6b
+            label: Text
+            name: '-73b36c6b'
+            widget: string
+          - hint: 'Original text: 9. Link Removal:, key: 1431b569'
+            label: Text
+            name: 1431b569
+            widget: string
+          - hint: >-
+              Original text: You can request the removal of offensive links from
+              our website., key: c8ea34f
+            label: Text
+            name: c8ea34f
+            widget: string
+          - hint: >-
+              Original text: We'll consider removal requests but are not
+              obligated to act on them., key: -217f9a53
+            label: Text
+            name: '-217f9a53'
+            widget: string
+          - hint: 'Original text: 10. Disclaimer:, key: -1f581ed2'
+            label: Text
+            name: '-1f581ed2'
+            widget: string
+          - hint: >-
+              Original text: We disclaim all liability to the extent permitted
+              by law for any issues arising from your use of the Vrisham
+              website., key: 7aa426a4
+            label: Text
+            name: 7aa426a4
+            widget: text
+          - hint: >-
+              Original text: We do not guarantee the accuracy or completeness of
+              the website's content., key: 34467d43
+            label: Text
+            name: 34467d43
+            widget: string
+          - hint: 'Original text: 11. Contact Us:, key: -5a0ba5f6'
+            label: Text
+            name: '-5a0ba5f6'
+            widget: string
+          - hint: >-
+              Original text: For hyperlink requests or any concerns, contact us
+              via the provided email on the Vrisham website., key: 5c0307ea
+            label: Text
+            name: 5c0307ea
+            widget: text
+          - hint: 'Original text: Vrisham Return and Refund Policy, key: 3d0d5d93'
+            label: Text
+            name: 3d0d5d93
+            widget: string
+          - hint: 'Original text: 1. Returns :, key: 37d323a'
+            label: Text
+            name: 37d323a
+            widget: string
+          - hint: >-
+              Original text: Products must be returned within 7 days of the
+              original purchase., key: 454ec33c
+            label: Text
+            name: 454ec33c
+            widget: string
+          - hint: >-
+              Original text: Items must be in new condition, unused, and with
+              all original packaging., key: -4989c932
+            label: Text
+            name: '-4989c932'
+            widget: string
+          - hint: >-
+              Original text: Customized items cannot be returned., key:
+              -3e257e80
+            label: Text
+            name: '-3e257e80'
+            widget: string
+          - hint: 'Original text: 2. Process :, key: 129f1c5'
+            label: Text
+            name: 129f1c5
+            widget: string
+          - hint: >-
+              Original text: Contact our customer service to initiate a return.,
+              key: 7d3750c4
+            label: Text
+            name: 7d3750c4
+            widget: string
+          - hint: >-
+              Original text: Provide your order number and details about the
+              item you wish to return., key: 7fbd25a4
+            label: Text
+            name: 7fbd25a4
+            widget: string
+          - hint: >-
+              Original text: We will provide a shipping label and instructions.,
+              key: -10e9f064
+            label: Text
+            name: '-10e9f064'
+            widget: string
+          - hint: 'Original text: 3. Refunds:, key: -f07dc1c'
+            label: Text
+            name: '-f07dc1c'
+            widget: string
+          - hint: >-
+              Original text: Once we receive your item, we will inspect it and
+              notify you of the status of your refund., key: -67ab390a
+            label: Text
+            name: '-67ab390a'
+            widget: string
+          - hint: >-
+              Original text: If approved, the refund will be processed to your
+              original method of payment within a certain number of days., key:
+              -6456268e
+            label: Text
+            name: '-6456268e'
+            widget: text
+          - hint: 'Original text: 4. Exchanges:, key: 1e5fdd10'
+            label: Text
+            name: 1e5fdd10
+            widget: string
+          - hint: >-
+              Original text: We only replace items if they are defective or
+              damaged., key: -3fe588f2
+            label: Text
+            name: '-3fe588f2'
+            widget: string
+          - hint: 'Original text: 5. Contact Us:, key: -593d5eb'
+            label: Text
+            name: '-593d5eb'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -205,6 +621,22 @@ collections:
             name: title
             widget: hidden
             default: Links
+          - hint: 'Original link: /terms-and-conditions/, key: -237f3f94'
+            label: Link
+            name: '-237f3f94'
+            widget: string
+          - hint: 'Original link: /untitled/, key: -e673f65'
+            label: Link
+            name: '-e673f65'
+            widget: string
+          - hint: 'Original link: /refund-policy/, key: 58314dd7'
+            label: Link
+            name: 58314dd7
+            widget: string
+          - hint: 'Original link: /, key: 2f'
+            label: Link
+            name: 2f
+            widget: string
           - hint: 'Original link: /web-app-page/, key: 687939cc'
             label: Link
             name: 687939cc
@@ -212,6 +644,14 @@ collections:
           - hint: 'Original link: https://linktr.ee/admin, key: -6078e459'
             label: Link
             name: '-6078e459'
+            widget: string
+          - hint: 'Original link: http://support@vrisham.com, key: 6a2fc93e'
+            label: Link
+            name: 6a2fc93e
+            widget: string
+          - hint: 'Original link: https://www.vrisham.com/, key: 1e5a8094'
+            label: Link
+            name: 1e5a8094
             widget: string
       - label: Images
         name: images
@@ -236,6 +676,19 @@ collections:
                 required: false
           - label: Image
             name: i55328ed9
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 3ca2ebc2
             widget: object
             fields:
               - name: url
