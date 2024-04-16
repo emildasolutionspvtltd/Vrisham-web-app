@@ -272,6 +272,11 @@
   margin-left: 20px;
 }
 
+.overflow_hidden {
+  width: 100%;
+  overflow: hidden;
+}
+
 @media screen and (min-width: 1280px) {
   .hero_section {
     background-image: var(--image-4b4df09), var(--image-i55328ed9);
@@ -329,6 +334,10 @@
 
   .container {
     max-width: 400px;
+  }
+
+  .html-embed {
+    height: 100%;
   }
 
   .privacy_policy_hero_section {
@@ -403,14 +412,15 @@
 
   .container {
     width: 100%;
-    height: 100vh;
-    margin-left: 0;
-    margin-right: 0;
+    height: 90vh;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   .html-embed {
     justify-content: space-between;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
   }
 
   .paragraph {
@@ -443,6 +453,12 @@
   .back_button.w--current {
     margin-left: 2px;
   }
+
+  .overflow_hidden {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -451,8 +467,13 @@
     background-size: contain, 180px;
   }
 
+  .hero_container {
+    margin-top: 10%;
+    margin-bottom: 0%;
+  }
+
   .logo_image {
-    width: 180px;
+    width: 60%;
   }
 
   .hero_head {
@@ -468,6 +489,15 @@
   .b1-txt, .b2-txt {
     font-size: 14px;
     line-height: 22px;
+  }
+
+  .container {
+    height: 90vh;
+    box-shadow: 12px 12px 8px -2px rgba(0, 0, 0, .19);
+  }
+
+  .html-embed {
+    height: 100%;
   }
 
   .nav_bar {
