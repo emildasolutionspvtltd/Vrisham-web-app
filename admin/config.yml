@@ -3,7 +3,7 @@ backend:
   accept_roles:
     - admin
     - editor
-  branch: main
+  branch: master
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
@@ -184,9 +184,9 @@ collections:
             label: Text
             name: '-3fbde6f6'
             widget: string
-          - hint: 'Original text: Refund Policy, key: -234a8d26'
+          - hint: 'Original text: Refund and Shipping Policy, key: -1149c8ed'
             label: Text
-            name: '-234a8d26'
+            name: '-1149c8ed'
             widget: string
           - hint: 'Original text: Contact Us, key: 7f2746de'
             label: Text
@@ -349,9 +349,9 @@ collections:
             label: Text
             name: 19673a2
             widget: string
-          - hint: 'Original text: support@vrisham.com, key: -337c5f70'
+          - hint: 'Original text: contact@vrisham.com, key: 15675361'
             label: Text
-            name: '-337c5f70'
+            name: '15675361'
             widget: string
           - hint: >-
               Original text: By using our Service, you consent to these terms.,
@@ -598,11 +598,16 @@ collections:
             widget: string
           - hint: >-
               Original text: If approved, the refund will be processed to your
-              original method of payment within a certain number of days., key:
-              -6456268e
+              original method of payment within 4 days., key: -23b7f42b
             label: Text
-            name: '-6456268e'
+            name: '-23b7f42b'
             widget: text
+          - hint: >-
+              Original text: We will process refunds for out-of-stock items also
+              within 4 days., key: -572d2dc9
+            label: Text
+            name: '-572d2dc9'
+            widget: string
           - hint: 'Original text: 4. Exchanges:, key: 1e5fdd10'
             label: Text
             name: 1e5fdd10
@@ -616,6 +621,80 @@ collections:
           - hint: 'Original text: 5. Contact Us:, key: -593d5eb'
             label: Text
             name: '-593d5eb'
+            widget: string
+          - hint: 'Original text: Shipping Policy , key: -9053744'
+            label: Text
+            name: '-9053744'
+            widget: string
+          - hint: 'Original text: 1. General Information :, key: 61581b0b'
+            label: Text
+            name: 61581b0b
+            widget: string
+          - hint: >-
+              Original text: All orders are subject to product availability. If
+              an item is not in stock at the time you place your order, we will
+              notify you and refund you the total amount of your order, using
+              the original method of payment., key: -314e5c8d
+            label: Text
+            name: '-314e5c8d'
+            widget: text
+          - hint: 'Original text: 2. Delivery Location :, key: 9658657'
+            label: Text
+            name: '9658657'
+            widget: string
+          - hint: >-
+              Original text: Items offered on our website are available for
+              delivery to addresses worldwide., key: 379861af
+            label: Text
+            name: 379861af
+            widget: string
+          - hint: 'Original text: 3. Delivery Time :, key: -fdd2672'
+            label: Text
+            name: '-fdd2672'
+            widget: string
+          - hint: >-
+              Original text: Estimated delivery times will be provided upon
+              order. Expect fulfillment within [number] business days from
+              shipping date., key: -dacc7fa
+            label: Text
+            name: '-dacc7fa'
+            widget: text
+          - hint: >-
+              Original text: If approved, the refund will be processed to your
+              original method of payment within a certain number of days., key:
+              -6456268e
+            label: Text
+            name: '-6456268e'
+            widget: text
+          - hint: 'Original text: 4. Shipping Costs :, key: 75bfd954'
+            label: Text
+            name: 75bfd954
+            widget: string
+          - hint: >-
+              Original text: Costs vary by weight and delivery method. Final
+              costs displayed at checkout., key: 54077001
+            label: Text
+            name: '54077001'
+            widget: string
+          - hint: 'Original text: 5. Damaged Items in Transport :, key: -4235f866'
+            label: Text
+            name: '-4235f866'
+            widget: string
+          - hint: >-
+              Original text: If there is any damage to the packaging on
+              delivery, contact us immediately, key: c7318ba
+            label: Text
+            name: c7318ba
+            widget: string
+          - hint: 'Original text: 6. Contact Us :, key: -530b8020'
+            label: Text
+            name: '-530b8020'
+            widget: string
+          - hint: >-
+              Original text: If you have any questions about the delivery and
+              shipment or your order, please contact us, key: 7f4cd370
+            label: Text
+            name: 7f4cd370
             widget: string
           - hint: 'Original text: Contact us, key: 7f274abe'
             label: Text
@@ -694,10 +773,6 @@ collections:
             label: Text
             name: 7f398fb6
             widget: string
-          - hint: 'Original text: contact@vrisham.com, key: 15675361'
-            label: Text
-            name: '15675361'
-            widget: string
           - hint: 'Original text: +91-98840 58834, key: -57f7a5df'
             label: Text
             name: '-57f7a5df'
@@ -744,9 +819,9 @@ collections:
             label: Link
             name: '-6078e459'
             widget: string
-          - hint: 'Original link: http://support@vrisham.com, key: 6a2fc93e'
+          - hint: 'Original link: http://contact@vrisham.com, key: -4cec83f1'
             label: Link
-            name: 6a2fc93e
+            name: '-4cec83f1'
             widget: string
           - hint: 'Original link: https://www.vrisham.com/, key: 1e5a8094'
             label: Link
