@@ -1,8 +1,8 @@
 ---
-title: Refund Policy
+title: Refund Policy & Shipping Policy
 permalink: '{{ page.fileSlug }}/index.html'
-layout: refund-policy.html
-slug: refund-policy
+layout: refund-policy-shipping-policy.html
+slug: refund-policy-shipping-policy
 tags: pages
 seo:
   noindex: false
