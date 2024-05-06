@@ -3,7 +3,7 @@ backend:
   accept_roles:
     - admin
     - editor
-  branch: main
+  branch: master
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
@@ -213,9 +213,9 @@ collections:
             label: Text
             name: 4bce2289
             widget: string
-          - hint: 'Original text: Vrisham Privacy Policy, key: -5b9f5064'
+          - hint: 'Original text: Vrisham Nature Privacy Policy, key: -6a794d4f'
             label: Text
-            name: '-5b9f5064'
+            name: '-6a794d4f'
             widget: string
           - hint: 'Original text: 1. Interpretation and Definitions, key: 6c989102'
             label: Text
@@ -263,9 +263,9 @@ collections:
             widget: string
           - hint: >-
               Original text:  Automatically collected data, such as IP
-              addresses, browser types, and visit detai, key: -695f7294
+              addresses, browser types, and visit detail, key: 3d712080
             label: Text
-            name: '-695f7294'
+            name: 3d712080
             widget: string
           - hint: 'Original text: ‍, key: 200d'
             label: Text
@@ -359,17 +359,17 @@ collections:
             label: Text
             name: '-1548c4ee'
             widget: string
-          - hint: 'Original text: Vrisham Terms and Conditions, key: 6cdc29ac'
+          - hint: 'Original text: Vrisham Nature Terms and Conditions, key: 7316c901'
             label: Text
-            name: 6cdc29ac
+            name: 7316c901
             widget: string
           - hint: 'Original text: 1. Acceptance:, key: -69d050e0'
             label: Text
             name: '-69d050e0'
             widget: string
-          - hint: 'Original text: By using the Vrisham, key: 4558961a'
+          - hint: 'Original text: By using the Vrisham Nature, key: 2c40098d'
             label: Text
-            name: 4558961a
+            name: 2c40098d
             widget: string
           - hint: 'Original text: website, key: 48f9e09b'
             label: Text
@@ -401,20 +401,20 @@ collections:
           - hint: >-
               Original text: Terms like "Client," "You," and "Your" refer to
               website users. "The Company," "Ourselves," "We," and "Us" refer to
-              Vrisham. "Party," "Parties," or "Us" includes both the client and
-              the company., key: 55b1261e
+              Vrisham . "Party," "Parties," or "Us" includes both the client and
+              the company., key: 7997d022
             label: Text
-            name: 55b1261e
+            name: 7997d022
             widget: text
           - hint: 'Original text: 3. License & Use Restrictions:, key: 1f38f9c'
             label: Text
             name: 1f38f9c
             widget: string
           - hint: >-
-              Original text: Vrisham owns the intellectual property rights to
-              all website material., key: 5b13838c
+              Original text: Vrisham Nature owns the intellectual property
+              rights to all website material., key: -44aed75f
             label: Text
-            name: 5b13838c
+            name: '-44aed75f'
             widget: string
           - hint: >-
               Original text: You may use the website for personal purposes but
@@ -434,11 +434,11 @@ collections:
             name: '-7db30239'
             widget: string
           - hint: >-
-              Original text: Vrisham isn't liable for comments' content but
-              reserves the right to remove inappropriate or offensive comments.,
-              key: -1c7fd3e9
+              Original text: Vrisham Nature isn't liable for comments' content
+              but reserves the right to remove inappropriate or offensive
+              comments., key: -5dc25914
             label: Text
-            name: '-1c7fd3e9'
+            name: '-5dc25914'
             widget: text
           - hint: 'Original text: 5. Hyperlinking:, key: -611cfb69'
             label: Text
@@ -534,13 +534,16 @@ collections:
             widget: string
           - hint: >-
               Original text: For hyperlink requests or any concerns, contact us
-              via the provided email on the Vrisham website., key: 5c0307ea
+              via the provided email on the Vrisham Nature website., key:
+              -2f406eab
             label: Text
-            name: 5c0307ea
+            name: '-2f406eab'
             widget: text
-          - hint: 'Original text: Vrisham Return and Refund Policy, key: 3d0d5d93'
+          - hint: >-
+              Original text: Vrisham Nature Return and Refund Policy, key:
+              5b8e4a68
             label: Text
-            name: 3d0d5d93
+            name: 5b8e4a68
             widget: string
           - hint: 'Original text: 1. Returns :, key: 37d323a'
             label: Text
@@ -622,6 +625,12 @@ collections:
             label: Text
             name: '-593d5eb'
             widget: string
+          - hint: >-
+              Original text: For hyperlink requests or any concerns, contact us
+              via the provided email on the Vrisham website., key: 5c0307ea
+            label: Text
+            name: 5c0307ea
+            widget: text
           - hint: 'Original text: Shipping Policy , key: -9053744'
             label: Text
             name: '-9053744'
@@ -644,9 +653,9 @@ collections:
             widget: string
           - hint: >-
               Original text: Items offered on our website are available for
-              delivery to addresses worldwide., key: 379861af
+              delivery to addresses provided., key: -7a9b105b
             label: Text
-            name: 379861af
+            name: '-7a9b105b'
             widget: string
           - hint: 'Original text: 3. Shipping Time :, key: -7336d6c'
             label: Text
@@ -824,9 +833,9 @@ collections:
             label: Link
             name: '-6078e459'
             widget: string
-          - hint: 'Original link: http://contact@vrisham.com, key: -4cec83f1'
+          - hint: 'Original link: mailto:contact@vrisham.com, key: -7b9d45a7'
             label: Link
-            name: '-4cec83f1'
+            name: '-7b9d45a7'
             widget: string
           - hint: 'Original link: https://www.vrisham.com/, key: 1e5a8094'
             label: Link
@@ -835,10 +844,6 @@ collections:
           - hint: 'Original link: mailto:sales@vrisham.com, key: 6a7f3b45'
             label: Link
             name: 6a7f3b45
-            widget: string
-          - hint: 'Original link: mailto:contact@vrisham.com, key: -7b9d45a7'
-            label: Link
-            name: '-7b9d45a7'
             widget: string
           - hint: 'Original link: tel:9884058834, key: d394bc0'
             label: Link
